@@ -15,3 +15,6 @@ notnumber('number') // => true
 
 
 That's it
+
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/packageflippers)

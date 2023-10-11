@@ -1,6 +1,6 @@
 {
   "name": "not-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/DeaSTL/not-number#readme",
   "description": "checks if the number provided is not a number",
   "main": "index.js",
